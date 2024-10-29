@@ -5,6 +5,7 @@ This repository contains the code to reproduce the results presented in the pape
 ## Table of Contents
 - [Installation](#installation)
 - [Directory Structure](#directory-structure)
+- [Data Description](#data-description)
 - [Usage](#usage)
   - [Data Preparation](#data-preparation)
   - [Running the Experiments](#running-the-experiments)
@@ -63,6 +64,9 @@ The directory structure of this repository is as follows:
 ├── environment.yml         # Conda environment configuration
 └── README.md               # Readme file
 ```
+
+## Data Description
+The dataset used in this project contains high-energy physics data from particle tracking detectors, specifically from the Time Projection Chamber (TPC) of the sPHENIX experiment. This dataset records sparse 3D trajectories of charged particles generated in high-energy collisions. Each data point represents a spatial location with varying intensity, capturing the unique patterns of particle paths within the TPC. The data required to run this repository's experiments can be downloaded from [Zenodo](https://zenodo.org/records/10028587).
 
 ## Usage
 
