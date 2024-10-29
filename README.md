@@ -108,17 +108,4 @@ This project is licensed under the MIT License.
 
 ## Citation
 
-If you find this code useful in your research, please consider citing our paper:
-
-```
-@article{yourname2024efficient,
-  title={Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling},
-  author={Your Name and Collaborators},
-  journal={Journal Name},
-  year={2024},
-  volume={XX},
-  number={X},
-  pages={XXX-XXX},
-  doi={XXX}
-}
-```
+Coming soon.
